@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey there!
 
-<!--
-**MakMao/MakMao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zsófi. I used to be a barista and brew coffee on a daily basis until I discovered how cool coding is. I love learning and creating new things. Right now, I spend a lot of time building [Frontend Mentor](https://www.frontendmentor.io/) projects and doing my best to [help](https://www.frontendmentor.io/profile/FluffyKas/comments) others, but my goal is to become a professional web developer one day!
 
-Here are some ideas to get you started:
+I also enjoy playing board games and video games in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer: Tools I use:
+- HTML
+- CSS / Sass
+- Javascript
+- React
+- npm
+- Bootstrap, Tailwind
+- VSCode, Parcel, Netlify
+
+###  :seedling: Currently I'm learning:
+- Javascript (probably will be learning it forever)
+- React
+- Framer Motion, animations
+- accessibility
+
+If you'd like to chat or collab with me, you can reach me via [email](mailto:maruzs.zso@gmail.com) or find me on [Linkedin](https://www.linkedin.com/in/zsofi-maruzs-a5a703216/)/[Twitter](https://twitter.com/fluffykas).
+
+<hr/>
+
+Something isn't right or you know how it could be better? Feel free to open up an issue or submit a pull request!
