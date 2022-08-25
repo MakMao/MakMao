@@ -7,14 +7,14 @@ My name is Max van Beek and I started my coding journey in the spring of 2021. F
 - HTML, CSS/SASS
 - JavaScript / TypeScript
 - ReactJS
+- GatsbyJS
 - Countless ReactJS libraries
 - Bootstrap, Tailwind
 - Styled Components
 
 
 ###  :seedling: Currently I'm learning:
-- ReactJS
-- Applying more ReactJS libraries
+- NextJS
 
 If you'd like to chat or collab with me, you can reach me via maxvanbeek@live.nl
 
