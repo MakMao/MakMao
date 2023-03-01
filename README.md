@@ -9,7 +9,6 @@ My name is Max van Beek and I started my coding journey in the spring of 2021. F
 - ReactJS
 - GatsbyJS
 - Countless ReactJS libraries
-- Bootstrap, Tailwind
 - Styled Components
 
 
